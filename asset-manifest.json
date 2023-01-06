@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/spend-calendar/static/css/main.385b7866.css",
+    "main.js": "/spend-calendar/static/js/main.ec1db90b.js",
+    "static/js/787.71df535f.chunk.js": "/spend-calendar/static/js/787.71df535f.chunk.js",
+    "service-worker.js": "/spend-calendar/service-worker.js",
+    "index.html": "/spend-calendar/index.html",
+    "main.385b7866.css.map": "/spend-calendar/static/css/main.385b7866.css.map",
+    "main.ec1db90b.js.map": "/spend-calendar/static/js/main.ec1db90b.js.map",
+    "787.71df535f.chunk.js.map": "/spend-calendar/static/js/787.71df535f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.385b7866.css",
+    "static/js/main.ec1db90b.js"
+  ]
+}
